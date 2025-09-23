@@ -42,6 +42,7 @@ Para compilar e executar o Zelda-INF, você precisará de um compilador C e da b
 ### Exemplo de Compilação (Linux):
 ```bash
 gcc main.c mapa.c jogador.c monstro.c vida.c espada.c barrastatus.c score.c menujogo.c menuprincipal.c caminho.c -o zelda -lraylib -lm -ldl -lpthread
+```
 
 ---
 
