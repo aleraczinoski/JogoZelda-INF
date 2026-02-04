@@ -2,6 +2,22 @@
 
 > Um jogo 2D estilo Zelda feito com a biblioteca [raylib](https://www.raylib.com/), como projeto final da disciplina de Algoritmos e Programação na UFRGS.
 
+<details>
+  <summary><strong>📸 Clique aqui para ver a tela inicial do jogo</strong></summary>
+  <br>
+  <div align="center">
+    <img width="1191" height="852" alt="image" src="https://github.com/user-attachments/assets/1d5bbc1d-1468-4e7a-9b60-6e1e36de140d" />
+  </div>
+</details>
+
+<details>
+  <summary><strong>📸 Clique aqui para ver a tela de gameplay do jogo</strong></summary>
+  <br>
+  <div align="center">
+    <img width="1198" height="857" alt="image" src="https://github.com/user-attachments/assets/947aef9d-72ce-4817-80ee-b23ac5d31623" />
+  </div>
+</details>
+
 ---
 
 ## 🎮 Sobre o Jogo
